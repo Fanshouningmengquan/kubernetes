@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/networking/ip-masq-agent:v2.8.0
+FROM k8s.gcr.io/e2e-test-images/jessie-dnsutils:1.3
