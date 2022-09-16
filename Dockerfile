@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/goproxy:0.1
+FROM quay.io/external_storage/nfs-client-provisioner:latest
